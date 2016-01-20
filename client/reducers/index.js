@@ -1,4 +1,4 @@
-import { UPDATE_MESSAGE, ADD_MESSAGE } from 'actions/message-actions';
+import { UPDATE_MESSAGE, ADD_MESSAGE } from '../constants';
 
 export default function(initialState) {
     return (state = initialState, action) => {

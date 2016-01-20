@@ -1,5 +1,4 @@
-export const UPDATE_MESSAGE = 'update-message';
-export const ADD_MESSAGE = 'add-message';
+import { UPDATE_MESSAGE, ADD_MESSAGE } from '../constants';
 
 export function updateMessage(message) {
     return {
