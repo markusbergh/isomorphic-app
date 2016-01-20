@@ -27,6 +27,7 @@ node_modules/
 # Distribution #
 ################
 dist/
+server/generated/
 
 # Logs and databases #
 ######################
