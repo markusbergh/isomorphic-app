@@ -1,6 +1,7 @@
 # isomorphic-app
 
 First try of creating an isomorphic application with React.js and Node.js and using Redux.
+
 Simplest example of adding message items to a list.
 
 ## Usage
