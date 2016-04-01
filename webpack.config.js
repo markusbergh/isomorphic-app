@@ -19,7 +19,8 @@ export const cssLoader = {
 export const aliases = {
     components: path.resolve(CLIENT_DIR, 'components'),
     reducers: path.resolve(CLIENT_DIR, 'reducers'),
-    actions: path.resolve(CLIENT_DIR, 'actions')
+    actions: path.resolve(CLIENT_DIR, 'actions'),
+    store: path.resolve(CLIENT_DIR, 'store')
 };
 
 export const client = {
